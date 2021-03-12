@@ -18,15 +18,22 @@ function setNumber(cmd, fileName){
             var lines = data.split("\n");
             if(cmd=="-b" && line.length==0){
                 console.log("\n");
+                
             }else if(cmd=="-s" && line.length==0){
-                if(flag==0){
+                    if(flag==0){
                     console.log("\n");
                     flag=1;
-                }
-            }else if(cmd=="-n"){
+                    
+                    }
+                    // continue;
+            }else{
+                if(line.length !=0){
                 flag=0;
+                }
+                
                 console.log(number,"-",line);
                 number++;
+
             }
             
         });
