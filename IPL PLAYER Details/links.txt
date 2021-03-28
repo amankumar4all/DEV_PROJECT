@@ -1,0 +1,13 @@
+https://flaviocopes.com/puppeteer/
+
+https://www.checklyhq.com/learn/headless/basics-navigation/
+
+https://itnext.io/scraping-with-nodejs-and-cheerio-d4d34e2cf
+
+https://nitayneeman.com/posts/getting-to-know-puppeteer-using-practical-examples/
+
+https://pptr.dev/
+
+
+get temporary mail
+https://temp-mail.org/
