@@ -1,0 +1,8 @@
+{
+    "link": "http://guvcdbujenkin01:8080/jenkins",
+    "username": "a8kumar",
+    "password": "Hello123",
+    "JOB_FOLDER_NAME": "AMAN_AUTOMATION_JOBS",
+    "Schema": "SCHEMA",
+    "MachineName": "MACHINE"
+}
